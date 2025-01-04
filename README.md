@@ -17,7 +17,7 @@
 
 | Splash Screen | Welcome Screen | Register Account | Personal Information | Company Information | Account Verification |
 |---------------|----------------|------------------|----------------------|---------------------|----------------------|
-| <img src="/Splash.png" alt="Splash Screen" width="200"> | <img src="/Sign in.png" alt="Log in" width="200"> | <img src="/Register Account.png" alt="Register Account" width="200"> | <img src="/Personal Information.png" alt="Personal Information" width="200"> | <img src="/company info.png" alt="Company Information" width="200"> | <img src="/verificatoin account pop up.png" alt="Account Verification" width="200"> |
+| <img src="/Splash.png" alt="Splash Screen" width="200"> | <img src="/Sign in.png" alt="Log in" width="200"> | <img src="/Register Account.png" alt="Register Account" width="200"> | <img src="/Personal information.png" alt="Personal Information" width="200"> | <img src="/company info.png" alt="Company Information" width="200"> | <img src="/verificatoin account pop up.png" alt="Account Verification" width="200"> |
 
 | Drawer Screen | Home Screen | Order Screen | Order Details | Search Screen | Notifications |
 |---------------|-------------|--------------|---------------|---------------|---------------|
