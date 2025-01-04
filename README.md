@@ -15,100 +15,21 @@
 
 ## 📸 Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Splash  Screen</h4>
-        <img src="/Splash.png" alt="Splash Screen" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Welcome Screen</h4>
-        <img src="/Sign in.png" alt="Log in" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Register Account</h4>
-        <img src="/Register Account.png" alt="Register Account" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Personal Information</h4>
-        <img src="/Personal Information.png" alt="Personal Information" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Company Information</h4>
-        <img src="/company info.png" alt="Company Information" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Account Verification</h4>
-        <img src="/verificatoin account pop up.png" alt="Account Verification" style="width: 100%;">
-    </div>
-    </div>
+| Splash Screen | Welcome Screen | Register Account | Personal Information | Company Information | Account Verification |
+|---------------|----------------|------------------|----------------------|---------------------|----------------------|
+| <img src="/Splash.png" alt="Splash Screen" width="200"> | <img src="/Sign in.png" alt="Log in" width="200"> | <img src="/Register Account.png" alt="Register Account" width="200"> | <img src="/Personal Information.png" alt="Personal Information" width="200"> | <img src="/company info.png" alt="Company Information" width="200"> | <img src="/verificatoin account pop up.png" alt="Account Verification" width="200"> |
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Drawer Screen</h4>
-        <img src="/Drawer.png" alt="Drawer Screen" style="width: 100%;">
-    </div><div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Home Screen</h4>
-        <img src="/Home.png" alt="Home Screen" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Order Screen</h4>
-        <img src="/Orders.png" alt="Order Screen" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Order Details</h4>
-        <img src="/My Cart-1.png" alt="Order Details" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Search Screen</h4>
-        <img src="/Search.png" alt="Search Screen" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Notifications</h4>
-        <img src="/Notifications.png" alt="Notifications Screen" style="width: 100%;">
-    </div>
-    </div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Profile Screen</h4>
-        <img src="/Profile.png" alt="Profile Screen" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Edit Profile Screen</h4>
-        <img src="/Edit My Profile.png" alt="Edit Profile Screen" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>My Carts Screen</h4>
-        <img src="/My Carts.png" alt="My Carts" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>My Cart Screen</h4>
-        <img src="/My Cart.png" alt="My Cart" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Product Details</h4>
-        <img src="/Product Details.png" alt="Product Details" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Supplier Details</h4>
-        <img src="/Supplier Details.png" alt="Supplier Details" style="width: 100%;">
-    </div>
-    </div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Supplier Store Screen</h4>
-        <img src="/Supplier Store.png" alt="Supplier Store" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        <h4>Favorites Products</h4>
-        <img src="/Favorite.png" alt="Edit Favorites Screen" style="width: 100%;">
-    </div>
-    <div style="flex: 1; width: 200px; height : 300px;">
-        </div>
-<div style="flex: 1; width: 200px; height : 300px;">
-        </div><div style="flex: 1; width: 200px; height : 300px;">
-        </div>
-        </div>
+| Drawer Screen | Home Screen | Order Screen | Order Details | Search Screen | Notifications |
+|---------------|-------------|--------------|---------------|---------------|---------------|
+| <img src="/Drawer.png" alt="Drawer Screen" width="200"> | <img src="/Home.png" alt="Home Screen" width="200"> | <img src="/Orders.png" alt="Order Screen" width="200"> | <img src="/My Cart-1.png" alt="Order Details" width="200"> | <img src="/Search.png" alt="Search Screen" width="200"> | <img src="/Notifications.png" alt="Notifications Screen" width="200"> |
 
+| Profile Screen | Edit Profile Screen | My Carts Screen | My Cart Screen | Product Details | Supplier Details |
+|----------------|---------------------|-----------------|----------------|-----------------|------------------|
+| <img src="/Profile.png" alt="Profile Screen" width="200"> | <img src="/Edit My Profile.png" alt="Edit Profile Screen" width="200"> | <img src="/My Carts.png" alt="My Carts" width="200"> | <img src="/My Cart.png" alt="My Cart" width="200"> | <img src="/Product Details.png" alt="Product Details" width="200"> | <img src="/Supplier Details.png" alt="Supplier Details" width="200"> |
+
+| Supplier Store | Favorites Products |
+|----------------|--------------------|
+| <img src="/Supplier Store.png" alt="Supplier Store" width="200"> | <img src="/Favorite.png" alt="Edit Favorites Screen" width="200"> |
 ## 📋 Usage
 
 1. Open the client mobile app 📱 and create your account.
